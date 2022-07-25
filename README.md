@@ -18,7 +18,7 @@ As an example, when a .PDF file is shared as part of a projects repository this 
 When in need for a new standard or to correct a mistake please do fork this project and do a pull request to have your changes or newly added standards to be included. When doing a pull request please do ensure you provide adequate information on the “why” this change should be considered.
 
 ## Open License Information
-To protect people working on projects that are part of the wider sunFlower Rebuild Project all work is licensed by default under a Creative Commons License.
+To protect people working on projects that are part of the wider sunFlower Rebuild Project all work is licensed by default under a Creative Commons License. The intention of the use of this license is to ensure all work donated to this project can be used for engineering purposes in line with the rebuild efforts for Ukraine by anyone who requires this while ensuring the original work on the project and changes / improvments will stay part of this licensed work.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
