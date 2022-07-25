@@ -9,6 +9,7 @@ As the intention is to ensure people are able to contribute to the development i
 ## New standards / improvements
 When in need for a new standard or to correct a mistake please do fork this project and do a pull request to have your changes or newly added standards to be included. When doing a pull request please do ensure you provide adequate information on the “why” this change should be considered.
 
+## Open License Information
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed to Johan Louwers under a
