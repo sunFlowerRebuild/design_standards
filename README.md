@@ -1,4 +1,4 @@
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 # Design Standards
 The sunFlower Rebuild Project Design Standards describe the standards used within all designs. As new types of designs will emerge over time with associated requirements for standardization the Design Standards will evolve over time and new standards will be added.
 
@@ -22,7 +22,7 @@ When in need for a new standard or to correct a mistake please do fork this proj
 To protect teh work on projects that are part of the wider sunFlower Rebuild Project all work is licensed by default under a Creative Commons License. The intention of the use of this license is to ensure all work donated to this project can be used for engineering purposes in line with the rebuild efforts for Ukraine by anyone who requires this while ensuring the original work on the project, derived work and changes / improvements will stay part of the original licensed work.
 
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed to Johan Louwers under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
