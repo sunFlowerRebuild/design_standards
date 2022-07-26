@@ -15,9 +15,9 @@ As an example, when a .PDF file is shared as part of a projects repository this 
 Standards can be hard requirements or guiding principles. Where a standard is marked as “hard requirement” it is a MUST to use and adhere to the standard. When a standard is a guiding principle the standard should be seen as favorable to use and should only be deviated from with good reason. The “hard requirement” standards are as much limited as possible to ensure maximum freedom and support the needed level of creativity in engineering. 
 
 |#   |Type   |Description   |link   |Use|
-|---|---|---|---|---|
-|0   |system of measurement|Metric System   |[https://en.wikipedia.org/wiki/Metric_system](Wikipedia)   |Hard requirment|
-|   |   |   |   |. |
+|---|---                  |---             |---|---|
+|0  |system of measurement|Metric System   |[Wikipedia](https://en.wikipedia.org/wiki/Metric_system)   |Hard requirment|
+|   |                     |                |                                                           |               |
 
 
 - WIP-
