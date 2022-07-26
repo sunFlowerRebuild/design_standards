@@ -17,7 +17,7 @@ Standards can be hard requirements or guiding principles. Where a standard is ma
 |#   |Type   |Description   |link   |Use|
 |---|---                  |---             |---|---|
 |0  |system of measurement|Metric System   |[Wikipedia](https://en.wikipedia.org/wiki/Metric_system)   |Hard requirment|
-|1  |Documentation (general)| Markdown     |[markdownguide.org]([https://www.markdownguide.org/)       |Guidance       |
+|1  |Documentation (general)| Markdown     |[markdownguide.org]([https://www.markdownguide.org)       |Guidance       |
 |   |                     |                |                                                           |               |
 
 
