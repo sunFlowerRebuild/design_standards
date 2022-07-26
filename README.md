@@ -37,4 +37,5 @@ To protect people working on projects that are part of the wider sunFlower Rebui
 
 For more information on the open Creative Commons license please do refer to the Creative Commons organisation website to read the details concerning CC BY-NC-ND 4.0 and/or refer to the Creative Commons copyright information placed in the original repository.
 
-When you contribute (code, documentation, designs, or anything else), you have to be aware that your contribution is becoming the ownership of the legal copyright holder as defined in the CC BY-NC-ND 4.0 copyright license under which the original project has been placed and your contribution will fall under the same copyright.
+When you contribute (code, documentation, designs, or anything else), you have to be aware that your contribution is becoming the ownership of the legal copyright holder as defined in the CC BY-NC-ND 4.0 copyright license under which the original project has been placed and your contribution will fall under the same copyright. By contributing to this work, either in the original repository or in any other way, form or location you agree with the terms and conditions and agree with donating your contribution without any reservation or future claim to the original license holder.![image](https://user-images.githubusercontent.com/5837005/181026408-01388163-264d-4abb-a873-b997ddf09d77.png)
+
